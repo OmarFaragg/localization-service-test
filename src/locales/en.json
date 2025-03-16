@@ -19,5 +19,7 @@
       "key8": "value8",
       "key9": "value91"
     }
-  }
+  },
+  "greeting": "Hello from repo 2!",
+  "welcome": "Welcome to repository 2"
 }
