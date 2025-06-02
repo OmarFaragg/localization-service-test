@@ -10,7 +10,8 @@
     "test2": "newtest2",
     "test3": "newtest3",
     "test4": "newtest4",
-    "test5": "newtest5"
+    "test5": "newtest5",
+    "test6": "newtest6"
   },
   "group2": {
     "key5": "value5",
