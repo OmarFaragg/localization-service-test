@@ -9,7 +9,8 @@
     "test1": "newtest1",
     "test2": "newtest2",
     "test3": "newtest3",
-    "test4": "newtest4"
+    "test4": "newtest4",
+    "test5": "newtest5"
   },
   "group2": {
     "key5": "value5",
