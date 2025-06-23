@@ -64,13 +64,15 @@
     "test56": "أحدث اختبار 56",
     "test57": "أحدث اختبار 57",
     "test58": "أحدث اختبار 58",
-    "test59": "newtest59",
+    "test59": "newtest-59",
     "test60": "newtest60",
     "test61": "newtest61",
     "test62": "newtest62",
     "test63": "newtest63",
     "test64": "newtest64",
-    "test65": "newtest65"
+    "test65": "newtest65",
+    "test-58": "أحدث اختبار 58",
+    "test66": "newtest66"
   },
   "group2": {
     "key5": "القيمة 5",
@@ -86,5 +88,14 @@
       "key8": "القيمة 8",
       "key9": "القيمة 91"
     }
+  },
+  "anwarTest": {
+    "key1": "القيمة 1",
+    "key2": "القيمة 2",
+    "key3": "القيمة 3",
+    "key4": "القيمة 4",
+    "key5": "القيمة 5",
+    "key6": "القيمة 6",
+    "key7": "value7"
   }
 }

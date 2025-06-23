@@ -64,13 +64,15 @@
     "test56": "nowytest56",
     "test57": "nowytest57",
     "test58": "nowytest58",
-    "test59": "newtest59",
+    "test59": "newtest-59",
     "test60": "newtest60",
     "test61": "newtest61",
     "test62": "newtest62",
     "test63": "newtest63",
     "test64": "newtest64",
-    "test65": "newtest65"
+    "test65": "newtest65",
+    "test-58": "nowytest58",
+    "test66": "newtest66"
   },
   "group2": {
     "key5": "wartość5",
@@ -86,5 +88,14 @@
       "key8": "wartość8",
       "key9": "wartość91"
     }
+  },
+  "anwarTest": {
+    "key1": "wartość1",
+    "key2": "wartość2",
+    "key3": "wartość3",
+    "key4": "wartość4",
+    "key5": "wartość5",
+    "key6": "wartość6",
+    "key7": "value7"
   }
 }
