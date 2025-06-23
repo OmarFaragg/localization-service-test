@@ -5,7 +5,7 @@
     "key3": "値3",
     "key4": "値4",
     "testingg": "テスト",
-    "newtest": "テストtt",
+    "newtest": "test------tt",
     "test1": "新着1",
     "test2": "最新テスト2",
     "test3": "最新テスト3",
@@ -71,7 +71,11 @@
     "test63": "newtest63",
     "test64": "newtest64",
     "test65": "newtest65",
-    "test-58": "新着58"
+    "test-58": "新着58",
+    "test66": "newtest66",
+    "test67": "newtest67",
+    "test68": "newtest68",
+    "test69": "newtest69"
   },
   "group2": {
     "key5": "値5",
