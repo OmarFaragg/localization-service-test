@@ -26,6 +26,15 @@
     "key6": "gildi6",
     "key7": "value7"
   },
+  "HammamTest1": {
+    "key1": "gildi1",
+    "key2": "gildi2",
+    "key3": "gildi3",
+    "key4": "gildi4",
+    "key5": "gildi5",
+    "key6": "gildi6",
+    "key7": "value7"
+  },
   "group1": {
     "key3": "gildi3",
     "key4": "gildi4",
@@ -80,7 +89,7 @@
     "test53": "nýttTest53",
     "test54": "nýjasta prófið54",
     "test56": "nýjasta prófið56",
-    "test57": "newtest-57",
+    "test-57": "newtest-57",
     "test-58": "nýjasta prófið58",
     "test59": "newtest-59",
     "test60": "newtest60",
